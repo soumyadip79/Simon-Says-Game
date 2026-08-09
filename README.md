@@ -2,24 +2,25 @@
 
 <div align="center">
 
-  <!-- Dynamic Typing Header Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=202020&center=true&vcenter=true&width=600&height=60&lines=Simon+Says+Game;Press+any+key+to+start+the+Game;Test+Your+Memory!;" alt="Typing SVG Animation" />
+  <!-- 🌟 Animated Top Header Banner (Glowing Animated Neon Header) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:eb5757,30:f2994a,70:2f80ed,100:9b51e0&height=220&section=header&text=SIMON%20SAYS%20GAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt=" Simon Says Game Animated Banner" />
+
+  <!-- ⚡ Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F2994A&center=true&vcenter=true&width=550&height=50&lines=%E2%9C%A8+Press+any+key+to+start+the+Game!;%F0%9F%A7%A0+Test+%26+Train+Your+Memory+Sequence!;%F0%9F%8E%AE+Classic+4-Color+Arcade+Action!" alt="Typing SVG Animation" />
+  </a>
 
   <br/>
 
-  <!-- Visual Wave/Divider Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eb5757,50:f2994a,100:2f80ed&height=120&section=header" width="100%" alt="Color Wave Animation"/>
-
-  <p align="center">
-    <b>A clean, classic memory web game built using HTML, CSS, and JavaScript.</b>
-  </p>
-
-  <!-- Animated Tech Badges -->
+  <!-- 🚀 Glowing Animated Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
+
+  <!-- 🌈 Glowing Animated Snake Divider Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8408-b56b5232b407.gif" width="100%" alt="Animated Glowing Divider"/>
 
   <p align="center">
     <a href="#-about-the-project"><b>About</b></a> •
