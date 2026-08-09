@@ -8,6 +8,11 @@
     <b>A clean, classic memory web game built using HTML, CSS, and JavaScript.</b>
   </p>
 
+  <!-- Dynamic Typing Title Banner Animation -->
+  <a href="https://github.com/your-username/Simon-Says-Game">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=000000&center=true&vcenter=true&width=600&height=70&lines=%E2%9C%A8+Simon+Says+Game+%E2%9C%A8;Press+any+key+to+start+the+Game!;Test+Your+Memory+%26+Focus!" alt="Simon Says Header Animation" />
+  </a>
+
   <!-- Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
