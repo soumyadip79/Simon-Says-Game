@@ -1,2 +1,2 @@
 # Simon-Says-Game
-This is a memory game called Simon Says
+This is a memory game called Simon Says.
